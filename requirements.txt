@@ -1,0 +1,11 @@
+fastapi==0.115.9
+uvicorn==0.34.3
+langchain
+langchain-community
+langchain-ollama
+langchain-core
+sentence-transformers
+torch
+chromadb
+redis
+pydantic
