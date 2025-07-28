@@ -104,7 +104,7 @@ Retrieved Content:
 Step 1: User only asked for contact info => Use phone/email  
 Step 2: Discard refund policy (not asked)  
 Response: You can contact our support team via:  
-- Call: 1800 000 0000  
+- Call: xxxxxxxxxxxxx 
 - Email: help@example.com
 
 Ongoing Converstaion:
